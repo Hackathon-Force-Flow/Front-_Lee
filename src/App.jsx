@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 
 import OfficerMain from "./pages/officer/officer_main/officer_main";
-import OfficerDashboard from "./pages/officer/officer_dashboard/officer_dashboard";
+import OfficerDashboard from "./pages/officer/officer_dashboard/duty_check";
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import styles from "./officer_dashboard.module.css";
+import styles from "./duty_check.module.css";
 import armyLogo from "../../../assets/appLog/Applogo.svg";
 import cardBg from "../../../assets/appLog/setshoot.svg";
 import cardOverlay from "../../../assets/appLog/setshoot_2.svg";
