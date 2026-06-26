@@ -20,7 +20,7 @@
   overflow: hidden;
   color: #f7f7ed;
   background-color: #698b79;
-  background-image: url("../../../assets/officer/officer_main/duty_check_3.svg");
+  background-image: url("../../../assets/appLog/duty_check_3.svg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -58,7 +58,7 @@
   height: 74.63px;
   display: block;
   padding: 0;
-  background-image: url("../../../assets/officer/officer_main/duty_check_1.svg");
+  background-image: url("../../../assets/appLog/duty_check_1.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -71,7 +71,7 @@
   position: absolute;
   inset: 0;
   z-index: 3;
-  background-image: url("../../../assets/officer/officer_main/duty_check_1.svg");
+  background-image: url("../../../assets/appLog/duty_check_1.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -181,7 +181,7 @@
   height: 53.73px;
   display: block;
   padding: 0;
-  background-image: url("../../../assets/officer/officer_main/duty_check_2.svg");
+  background-image: url("../../../assets/appLog/duty_check_2.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -192,7 +192,7 @@
   position: absolute;
   inset: 0;
   z-index: 3;
-  background-image: url("../../../assets/officer/officer_main/duty_check_2.svg");
+  background-image: url("../../../assets/appLog/duty_check_2.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
